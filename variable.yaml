@@ -1,0 +1,4 @@
+project_name: 'wafo'
+project_region: 'us-west-2'
+key_name: './id_rsa'
+bucket_name: 'wafo-log-bucket0219'
